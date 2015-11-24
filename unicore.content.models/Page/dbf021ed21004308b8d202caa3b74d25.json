@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "tur_TR", 
+  "title": "M\u00fckemmel \u015fifreyi olu\u015ftur", 
+  "primary_category": "333720c6045a4cee9d274df9aba3e36f", 
+  "created_at": "2015-11-24T19:20:24.397521+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-11-24T19:20:24.397722+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "*Sevgili Bayan Teknoloji,*\r\n\r\n*Facebook hesab\u0131m\u0131 yeni olu\u015fturdum. Arkada\u015f\u0131m bana \u015fifreme dikkat etmem gerekti\u011fini s\u00f6yledi. G\u00fcvenli bir \u015fifre olu\u015fturmak ne demek?* \r\n\r\n*Sayg\u0131lar\u0131mla,*\r\n \r\n*Jakarta'dan Tika*\r\n\r\nSevgili Jakarta'dan Tika,\r\n\r\nBir \u015fifre, cep telefonunda ya da bilgisayar\u0131nda saklad\u0131\u011f\u0131n bilgiyi koruyan gizli bir kod gibidir. \u00c7evrimi\u00e7i sahip oldu\u011funuz t\u00fcm ki\u015fisel bilgiler i\u00e7in bir anahtar gibidir. Birinin evine girip ki\u015fisel e\u015fyalar\u0131n\u0131 incelemesini nas\u0131l istemiyorsan, birinin \u00e7evrimi\u00e7i ki\u015fisel bilgilerine eri\u015fmesini de istemezsin.\r\n\r\n\u00c7o\u011fu web sitesi ve cep telefonu \u015fifre gerektirir. Bu, PIN olarak bilinen 4 haneli bir say\u0131 kodu ya da say\u0131lar, harfler ve semboller kullanarak olu\u015fturaca\u011f\u0131n bir \u015fifre olabilir. \r\n\r\nE\u011fer internet kafeye gidiyor ya da telefonunu bir aile \u00fcyesi ile payla\u015f\u0131yorsan, g\u00fcvenli \u015fifreler ger\u00e7ekten \u00f6nemlidir. Facebook ve e-posta hesab\u0131n i\u00e7in farkl\u0131 \u015fifreler olu\u015fturmal\u0131s\u0131n. Bu \u015fifreleri kimseyle payla\u015fma (en iyi arkada\u015f\u0131nla bile!). \u0130nternet kafede \u015fifreni yazarken de fiziksel olarak v\u00fccudunla bilgisayar\u0131 kapatmal\u0131s\u0131n.\r\n\r\nBir say\u0131 kodu ya da PIN olu\u015ftururken, senin i\u00e7in \u00f6zel bir anlam\u0131 olan ama ba\u015fkalar\u0131n\u0131n zor tahmin edebilece\u011fi 4 say\u0131 se\u00e7. \u00d6rne\u011fin do\u011fum tarihinin g\u00fcn ve ay k\u0131sm\u0131n\u0131 kullanma. Cep telefonu numaran\u0131n son d\u00f6rt rakam\u0131n\u0131 kullanma. Ayr\u0131ca 2222 gibi ayn\u0131 say\u0131lardan olu\u015fan bir kod da kullanma. Bu \u00e7ok kolay bir kod olur. Kolay unutmayaca\u011f\u0131n yarat\u0131c\u0131 bir \u015fey d\u00fc\u015f\u00fcn!\r\n\r\nKelime ve sembollerden olu\u015fan bir \u015fifre se\u00e7erken kolayca hat\u0131rlayabilece\u011fin ama ba\u015fka kimsenin tahmin edemeyece\u011fi bir kelime d\u00fc\u015f\u00fcn. Bu, her kelimesi b\u00fcy\u00fck harfle ba\u015flayan ve sonunda bir say\u0131 olan, sevdi\u011finiz bir kitab\u0131n ya da \u015fark\u0131n\u0131n ad\u0131 olabilir. \u00d6rne\u011fin: StoryOfMyLife89. Baz\u0131 harfleri sembollerle de de\u011fi\u015ftirebilirsin, \u00f6rne\u011fin D@nceToTheBe@t gibi.\r\n\r\nAile \u00fcyelerinin, arkada\u015flar\u0131n\u0131n, evcil hayvanlar\u0131n\u0131n isimlerini, do\u011fum g\u00fcn\u00fcne, telefon numarana, memleketine ya da okuluna ili\u015fkin herhangi bir \u015feyi kullanmaktan ka\u00e7\u0131n. Birinin kolayca bulabilece\u011fi ve hesab\u0131na girebilece\u011fi bir yere \u015fifreni yazma.\r\n\r\n\u015eifreni olu\u015ftururken iyi e\u011flenceler!\r\n\r\nSevgiler, Bayan Teknoloji\r\n", 
+  "source": "aabf2b5215e446268615d667c3a72c71", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "create-perfect-password", 
+  "uuid": "dbf021ed21004308b8d202caa3b74d25"
+}
