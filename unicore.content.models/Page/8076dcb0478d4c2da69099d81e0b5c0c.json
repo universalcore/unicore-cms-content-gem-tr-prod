@@ -4,14 +4,14 @@
   "language": "tur_TR", 
   "title": "NASIL HAYIR DEN\u0130R?", 
   "primary_category": "333720c6045a4cee9d274df9aba3e36f", 
-  "created_at": "2015-11-20T22:36:11.931940+00:00", 
+  "created_at": "2015-11-20T22:36:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-11-20T22:36:11.932158+00:00", 
+  "modified_at": "2015-11-28T20:06:15.784100+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 19, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-you-know-how-say-no", 
   "uuid": "8076dcb0478d4c2da69099d81e0b5c0c"
