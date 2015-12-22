@@ -1,17 +1,17 @@
 {
-  "subtitle": "", 
-  "description": "", 
+  "subtitle": "Nas\u0131l durdurulur?", 
+  "description": "Nas\u0131l durdurulur?", 
   "language": "tur_TR", 
   "title": "Yard\u0131m edin! Facebook hesab\u0131m ele ge\u00e7irildi!", 
   "primary_category": "333720c6045a4cee9d274df9aba3e36f", 
-  "created_at": "2015-11-24T19:29:42.413398+00:00", 
+  "created_at": "2015-11-24T19:29:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-11-24T19:29:42.413634+00:00", 
+  "modified_at": "2015-12-22T20:52:56.738101+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
